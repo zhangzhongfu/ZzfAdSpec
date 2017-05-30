@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "ZzfAdSpec"
-  s.version      = "0.0.2"
+  s.version      = "1.0.0"
   s.summary      = "ZzfAdSpec  无限轮播图"
   s.description  = <<-DESC
                     无限轮播图的spec,请多多指教
