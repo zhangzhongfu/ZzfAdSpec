@@ -1,13 +1,13 @@
 
 Pod::Spec.new do |s|
   s.name         = "ZzfAdSpec"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "ZzfAdSpec  无限轮播图"
   s.description  = <<-DESC
-                    无限轮播图的spec
+                    无限轮播图的spec,请多多指教
                    DESC
 
-  s.homepage     = "http://EXAMPLE/ZzfAdSpec"
+  s.homepage     = "https://www.wozaijia.com/"
 
   s.license      = "MIT"
 
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
 
   s.source       = { :git => "https://github.com/zhangzhongfu/ZzfAdSpec.git", :tag => s.version }
-  s.source_files  = "ZzfAdSpec/*.{h,m}"
+  s.source_files  = "*.{h,m}"
 
   s.requires_arc = true
 
